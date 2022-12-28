@@ -18,4 +18,4 @@ while not stop_loop:
         print("\nError! Please insert a valid numeric format")
         print("Invalid temperature: please type a numeric value between -100 and 60")
 
-print("Current temperature inserted is:", result, "Fº")
+print("The converted temperature is:", result, "Fº")
